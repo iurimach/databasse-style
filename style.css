@@ -1,0 +1,24 @@
+.thead1{
+    background-color: aqua;
+}
+
+#example{
+    background-color: rgb(89, 131, 37);
+}
+.nameth{
+    background-color: azure;
+}
+
+.footer1{
+    background-color: rgb(45, 94, 106);
+}
+/* html Shi naxe ra clasic aq miwvdebi imit da gastilav. mtavria  
+style file gqondes bolos mibmuli vidre bootstrapi */
+.dataTables_wrapper .dataTables_filter input {
+    background-color: rgb(228, 238, 238);
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button{
+   
+    border: 3px solid rgb(119, 219, 132); ;
+}
